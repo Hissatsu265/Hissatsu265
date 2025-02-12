@@ -1,3 +1,5 @@
+![](1.gif)
+
 <h1>Hi 👋, I'm Lê Minh Toàn</h1>
 <p>Welcome to my GitHub profile! I am a senior student majoring in Computer Networks and Data Communications at the University of Information Technology - VNU-HCM. With a strong passion for AI, I specialize in Computer Vision and NLP, focusing on deep learning, multimodal AI, and model optimization. Currently, I am researching multi-task learning models for Alzheimer's disease diagnosis and exploring loss optimization techniques for models. My main goal is to become an AI Engineer, applying my skills to real-world challenges and contributing to smart, innovative solutions. 🚀✨</p>
 <h2>🚀 Languages and Tools I Use</h2>
