@@ -31,4 +31,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/toàn-lê-minh-4b28272b5/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/nyny.ti/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
 
-<img src="1.gif" width="300">
+<p align="center">
+  <img src="1.gif" width="500">
+</p>
+
